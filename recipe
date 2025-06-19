@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Biryani Journal</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #fff8f0;
+      color: #333;
+      padding: 20px;
+    }
+    .journal {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .journal h1 {
+      color: #b34700;
+      text-align: center;
+    }
+    .entry {
+      border-top: 1px solid #eee;
+      padding-top: 15px;
+      margin-top: 15px;
+    }
+    .entry h2 {
+      color: #d2691e;
+    }
+    .entry p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <div class="journal">
+    <h1>Biryani Recipe Journal</h1>
+    <div class="entry">
+      <h2>June 19, 2025 – Hyderabadi Biryani</h2>
+      <p>Marinated chicken overnight with yogurt, spices, and mint. Layered with saffron rice and slow-cooked. Perfect balance of heat and aroma!</p>
+    </div>
+    <div class="entry">
+      <h2>June 18, 2025 – Veg Dum Biryani</h2>
+      <p>Used basmati rice with potatoes, carrots, beans, and paneer. Cooked on dum with fried onions. Delightfully fragrant and rich!</p>
+    </div>
+  </div>
+</body>
+</html>
